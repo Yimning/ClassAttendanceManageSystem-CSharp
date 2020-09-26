@@ -4,7 +4,7 @@
 
 开发软件：Visual Studio 2015
 
-数据库：Microsoft SQL Server
+数据库应用服务软件：Microsoft SQL Server 2008 R2
 
 C#窗体应用程序开发
 
