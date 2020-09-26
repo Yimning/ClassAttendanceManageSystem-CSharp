@@ -4,7 +4,7 @@
 
 开发软件：Visual Studio 2015
 
-数据库：
+数据库：Microsoft 
 
 C#窗体应用程序开发
 
